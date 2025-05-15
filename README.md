@@ -1,9 +1,9 @@
 # Olá, eu sou o Luiz Gabriel! 👋
 
 ## Sobre mim
-Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por tecnologia. Atualmente focado em aprender HTML, CSS, JavaScript e mais!
+Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por tecnologia. No momento estou focado em aprender HTML, CSS, JavaScript e mais!
 
-## Tecnologias que uso
+## Linguagens que uso
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
@@ -17,8 +17,8 @@ Aqui você pode conferir alguns dos meus projetos no GitHub:
 - [Quiz para Programadores](https://github.com/DevLuizGabriel/quiz-para-programadores-HTML)
 
 ## Contato
-- Email: seuemail@example.com  
-- LinkedIn: https://linkedin.com/in/seunome  
+- Email: lg156147@gmail.com  
+- LinkedIn: https://linkedin.com/in/luizgabrielolivriradasilva 
 
 
 ---
