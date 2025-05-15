@@ -3,11 +3,12 @@
 ## Sobre mim
 Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por tecnologia. Atualmente focado em aprender HTML, CSS, JavaScript e mais!
 
-## Skills
-- HTML5 & CSS3
-- JavaScript (básico/intermediário)
-- Git & GitHub
-- Lógica de programação
+## Tecnologias que uso
+
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 
 ## Projetos
 Aqui você pode conferir alguns dos meus projetos no GitHub:
