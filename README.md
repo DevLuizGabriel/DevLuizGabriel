@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Luiz Gabriel! 👋
 
-<!--
-**DevLuizGabriel/DevLuizGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por tecnologia. Atualmente focado em aprender HTML, CSS, JavaScript e mais!
 
-Here are some ideas to get you started:
+## Skills
+- HTML5 & CSS3
+- JavaScript (básico/intermediário)
+- Git & GitHub
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+Aqui você pode conferir alguns dos meus projetos no GitHub:
+- [Exercícios Curso em Vídeo](https://github.com/DevLuizGabriel/Exercices-Cursoemvideo)
+- [Quiz para Programadores](https://github.com/DevLuizGabriel/quiz-para-programadores-HTML)
+
+## Contato
+- Email: seuemail@example.com  
+- LinkedIn: https://linkedin.com/in/seunome  
+
+
+---
+
+**Vamos construir algo juntos? 🚀**
