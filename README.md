@@ -1,7 +1,7 @@
 # Olá, eu sou o Luiz Gabriel! 👋
 
 ## Sobre mim
-Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por tecnologia. No momento estou focado em aprender HTML, CSS, JavaScript e mais!
+Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por tecnologia. No momento estou focado em aprender Python, mas tambem estudo  HTML, CSS, JavaScript e mais!
 
 ## Linguagens que uso
 
@@ -9,6 +9,7 @@ Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 </p>
 
 ## Projetos
