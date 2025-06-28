@@ -14,7 +14,7 @@ Atualmente curso Analise e desenvolvimento de sistemas, e sou  apaixonado por te
 
 ## Projetos
 Aqui você pode conferir alguns dos meus projetos no GitHub:
-- [Projetos em Python](https://github.com/DevLuizGabriel/Exercices-Cursoemvideo)](https://github.com/DevLuizGabriel/Projetos-Python)
+- [Projetos em Python](https://github.com/DevLuizGabriel/Exercices-Cursoemvideo)(https://github.com/DevLuizGabriel/Projetos-Python)
 - [Quiz para Programadores](https://github.com/DevLuizGabriel/quiz-para-programadores-HTML)
 
 ## Contato
