@@ -16,7 +16,7 @@ Aqui você pode conferir alguns dos meus projetos no GitHub:
 
 ## Contato
 - Email: lg156147@gmail.com  
-- LinkedIn: https://linkedin.com/in/luizgabrielolivriradasilva 
+- LinkedIn: https://www.linkedin.com/in/luizgabrieloliveiradasilva
 
 
 ---
