@@ -48,7 +48,7 @@ Aqui você pode conferir alguns dos meus projetos no GitHub:
 
 ## 📫 Contato
 - **Email:** [lg156147@gmail.com](mailto:lg156147@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/luizgabrielolivriradasilva](https://linkedin.com/in/luizgabrielolivriradasilva)  
+- **LinkedIn:** (https://linkedin.com/in/luizgabrielolivriradasilva)  
 
 ---
 
