@@ -29,8 +29,8 @@ Meu objetivo é conquistar uma **vaga de estágio em desenvolvimento Java**, apl
 
 Aqui você pode conferir alguns dos meus projetos no GitHub:
 
-- [**Automação para GitHub (Python)**](https://github.com/DevLuizGabriel/Automacao-GitHub)
-- [**Quiz para Programadores**](https://github.com/DevLuizGabriel/quiz-para-programadores-HTML)
+- [**Automação para GitHub (JAVA)**](https://github.com/DevLuizGabriel/Automacao-GitHub)
+- [**Projetos em HTML-CSS-JAVASCRIPT**](https://github.com/DevLuizGabriel/Projetos-em-HTML-CSS-JAVASCRIPT)
 - [**Projetos em Java**](https://github.com/DevLuizGabriel?tab=repositories&q=java)
 
 ---
