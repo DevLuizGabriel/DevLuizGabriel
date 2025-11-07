@@ -31,7 +31,7 @@ Aqui você pode conferir alguns dos meus projetos no GitHub:
 
 - [**Automação para GitHub (JAVA)**](https://github.com/DevLuizGabriel/github-automation)
 - [**Projetos em HTML-CSS-JAVASCRIPT**](https://github.com/DevLuizGabriel/Projetos-em-HTML-CSS-JAVASCRIPT)
-- [**Projetos em Java**](https://github.com/DevLuizGabriel?tab=repositories&q=java)
+- [**Controle de Estoque Básico (JAVA)**](https://github.com/DevLuizGabriel/basic-inventory-control)
 
 ---
 
